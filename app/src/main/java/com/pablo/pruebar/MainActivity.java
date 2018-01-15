@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Comentario desde ramaLocal2
 
+        //Comentario2 desde ramaLocal2
+
     }
 }
